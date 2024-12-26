@@ -16,7 +16,7 @@
 - Solution file: `HQH/HQH.sln`
 
 ## Also
-- The two directories `SDL3-3.1.2` and `EastL-3.21.12/` were uploaded together "without any modifications", just to facilitate the demo run.
+- The two directories `SDL3-3.1.2/` and `EastL-3.21.12/` were uploaded together "without any modifications", just to facilitate the demo run.
 - You can also download them yourself:
     - SDL3-3.1.2 Download Address:
         - https://github.com/libsdl-org/SDL/releases/download/prerelease-3.1.2/SDL3-3.1.2.zip
